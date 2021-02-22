@@ -15,6 +15,7 @@
 		A1F8DC4025DD3DD600ACED46 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1F8DC3E25DD3DD600ACED46 /* LaunchScreen.storyboard */; };
 		A1F8DC4B25DD3E9100ACED46 /* PlayingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8DC4A25DD3E9100ACED46 /* PlayingCard.swift */; };
 		A1F8DC4E25DD660E00ACED46 /* PlayingCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8DC4D25DD660E00ACED46 /* PlayingCardDeck.swift */; };
+		A1F8DC5125E12D5700ACED46 /* PlayingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8DC5025E12D5700ACED46 /* PlayingCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A1F8DC4125DD3DD600ACED46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1F8DC4A25DD3E9100ACED46 /* PlayingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCard.swift; sourceTree = "<group>"; };
 		A1F8DC4D25DD660E00ACED46 /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
+		A1F8DC5025E12D5700ACED46 /* PlayingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				A1F8DC4A25DD3E9100ACED46 /* PlayingCard.swift */,
+				A1F8DC5025E12D5700ACED46 /* PlayingCardView.swift */,
 				A1F8DC4D25DD660E00ACED46 /* PlayingCardDeck.swift */,
 				A1F8DC4825DD3DE900ACED46 /* Supporting Files */,
 				A1F8DC3725DD3DD500ACED46 /* ViewController.swift */,
@@ -152,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1F8DC3825DD3DD500ACED46 /* ViewController.swift in Sources */,
+				A1F8DC5125E12D5700ACED46 /* PlayingCardView.swift in Sources */,
 				A1F8DC3425DD3DD500ACED46 /* AppDelegate.swift in Sources */,
 				A1F8DC4E25DD660E00ACED46 /* PlayingCardDeck.swift in Sources */,
 				A1F8DC4B25DD3E9100ACED46 /* PlayingCard.swift in Sources */,
